@@ -15,4 +15,4 @@ Most of the world doesn't speak that way.
 
 We're building the rest.
 
-Building in private. — hello@klaamai.com
+Building in private. — hello@klaam.ai
