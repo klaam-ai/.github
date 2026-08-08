@@ -1,5 +1,4 @@
 # Support
 
-- Documentation: https://docs.klaam.ai
-- Questions: GitHub Discussions on the relevant repository
-- Email: support@klaamai.com
+Klaam is currently building in private. Documentation, Discussions and a support
+channel will be published at public launch.

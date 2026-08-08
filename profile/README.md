@@ -1,9 +1,18 @@
-# Klaam
+<div align="center">
 
-**Frontier dialog model & deep voice tech, francophone-first.**
+# klaam
 
-Orchestrated in Paris. Acoustically engineered in Antananarivo.
+### Voice AI, engineered for how the world actually speaks.
 
-- Docs: https://docs.klaam.ai
-- Playground: https://play.klaam.ai
-- Status: https://status.klaam.ai
+Orchestrated in Paris · Acoustically engineered in Antananarivo
+
+</div>
+
+---
+
+Most voice AI is built for one way of speaking.
+Most of the world doesn't speak that way.
+
+We're building the rest.
+
+Building in private. — hello@klaamai.com
