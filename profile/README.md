@@ -2,17 +2,20 @@
 
 # klaam
 
-### Voice AI, engineered for how the world actually speaks.
+*klaam* · to speak, to act.
 
-Orchestrated in Paris · Acoustically engineered in Antananarivo
+**Agentic voice AI, fluent in the world as it actually sounds.**
+
+<sub>Orchestrated in Paris · Acoustically engineered in Antananarivo</sub>
 
 </div>
 
 ---
 
-Most voice AI is built for one way of speaking.
-Most of the world doesn't speak that way.
+<div align="center">
 
-We're building the rest.
+Not one voice. Not one accent. Not one way to be understood.
 
-Building in private. — hello@klaamai.com
+Building in private · [hello@klaam.ai](mailto:hello@klaam.ai)
+
+</div>
